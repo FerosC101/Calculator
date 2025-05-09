@@ -1,0 +1,10 @@
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\bin\Debug\CalculatorAppLab4.exe.config
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\bin\Debug\CalculatorAppLab4.exe
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\bin\Debug\CalculatorAppLab4.pdb
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\obj\Debug\CalculatorAppLab4.csproj.AssemblyReference.cache
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\obj\Debug\CalculatorAppLab4.frmCalculator.resources
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\obj\Debug\CalculatorAppLab4.Properties.Resources.resources
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\obj\Debug\CalculatorAppLab4.csproj.GenerateResource.cache
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\obj\Debug\CalculatorAppLab4.csproj.CoreCompileInputs.cache
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\obj\Debug\CalculatorAppLab4.exe
+C:\Users\KC Dimayuga\source\repos\CalculatorAppLab4\CalculatorAppLab4\obj\Debug\CalculatorAppLab4.pdb
